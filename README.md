@@ -1,8 +1,15 @@
 # plugin-problem
 
 # Lazada #
-- [ ] An uncompleted task
-- [x] A completed task
+- [ ] Shipping Label
+- [ ] data moat
+- [ ] sync produt to lazada error
+- [ ] sync existing product to lazada
 
 
-#Shopee
+# Shopee #
+- [ ] delete profile product after update profile
+- [ ] product info in shopee not display
+- [ ] 
+- [ ] 
+- [ ] 
