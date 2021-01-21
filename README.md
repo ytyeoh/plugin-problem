@@ -11,6 +11,6 @@
 # Shopee #
 - [ ] delete profile product after update profile
 - [ ] product info in shopee not display
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]  
+- [ ]  
+- [ ]  
