@@ -1,12 +1,14 @@
 # plugin-problem
 
+https://docs.cedcommerce.com/opencart/lazada-integration-for-opencart-user-manual/lazada-opencart-integration-manual/?section=manage-products-56
+
 # Lazada #
 - [ ] Shipping Label
 - [ ] data moat
-- [ ] sync produt to lazada error
+- [x] sync produt to lazada error
 - [ ] sync existing product to lazada
-- [ ] Uncaught Exception: Error: Unknown column 'short_description' in 'field list'<br />Error No: 1054<br />SELECT `short_description` AS `value` FROM `ocun_product` AS p LEFT JOIN `ocun_product_description`
-
+- [x] Uncaught Exception: Error: Unknown column 'short_description' in 'field list'<br />Error No: 1054<br />SELECT `short_description` AS `value` FROM `ocun_product` AS p LEFT JOIN `ocun_product_description`
+- [ ] upload all with error
 
 # Shopee #
 - [ ] delete profile product after update profile
