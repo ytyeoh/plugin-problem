@@ -16,6 +16,7 @@ https://docs.cedcommerce.com/opencart/lazada-integration-for-opencart-user-manua
 - [x] delete profile product after update profile
 - [ ] product info in shopee not display
 ![alt text](https://github.com/ytyeoh/plugin-problem/blob/main/b2.png)
-- [ ]  
+- [ ]  upload all with error
+![alt text](https://github.com/ytyeoh/plugin-problem/blob/main/b3.png)
 - [ ]  
 - [ ]  
