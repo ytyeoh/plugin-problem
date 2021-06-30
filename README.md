@@ -3,6 +3,8 @@
 https://docs.cedcommerce.com/opencart/lazada-integration-for-opencart-user-manual/lazada-opencart-integration-manual/?section=manage-products-56
 
 # Lazada #
+- [ ] delivery  option
+- [ ] variant option
 - [ ] Shipping Label
 - [ ] data moat
 - [x] sync produt to lazada error
